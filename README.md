@@ -69,7 +69,7 @@ This repository content the files: JavaScript "server.js" (main app), Mit licens
 - Deploy App on Heroku page Here! --> "https://secret-garden-39364.herokuapp.com/" <--
 
 ## 👤Questions  
-![youtube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)  ![Heroku](https://img.shields.io/badge/Heroku-purple?style=flat&logo=heroku)  ![MySQL](https://img.shields.io/badge/MySQL-9cf?style=flat&logo=mysql)  ![Social](https://img.shields.io/github/followers/diegolehyt?style=social) 
+![youtube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)  ![Heroku](https://img.shields.io/badge/Heroku-purple?style=flat&logo=heroku)  ![MySQL](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)  ![Social](https://img.shields.io/github/followers/diegolehyt?style=social) 
 
 ![Profile img](https://avatars1.githubusercontent.com/u/59458188?v=4)
 
