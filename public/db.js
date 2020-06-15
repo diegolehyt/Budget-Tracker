@@ -58,7 +58,7 @@ function checkDatabase() {
       })
         .then(response => response.json())
         .then(() => {
-            
+
           // if successful, open a transaction on your pending db
           const transaction = db.transaction(["pending"], "readwrite");
 
@@ -74,3 +74,5 @@ function checkDatabase() {
 
 // listen for app coming back online
 window.addEventListener("online", checkDatabase);
+
+// https://cdn.iconscout.com/icon/premium/png-192-thumb/budget-41-438077.png // in case I need the budget icon
